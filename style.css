@@ -1,0 +1,22 @@
+#container{
+    margin: 100px auto;
+    width: 800px;
+    text-align: center;
+}
+
+#age, #submit-btn{
+    border: 2px solid skyblue;
+    padding:10px 20px;
+    border-radius: 10px;
+}
+
+#submit-btn{
+    background-color: aqua;
+    color: white;
+    font-weight: 700;
+}
+
+
+#error{
+    color: red;
+}
